@@ -16,7 +16,7 @@ sidebar:
       #    phone:
       #    timezone:
     citizenship:
-    website: smlatorreo.github.io #do not add http://
+    website: www.ucl.ac.uk/biosciences/people/dr-sergio-latorre-ochoa #do not add http://
     linkedin: sergio-latorre-695172198
       #    xing:
     github: smlatorreo
@@ -47,11 +47,11 @@ sidebar:
         - idiom: German
           level: Basic
 
-    interests:
-      title: Interests
-      info:
-        - item: Music
-          link: 
+            #    interests:
+            #      title: Interests
+            #      info:
+            #        - item: Music
+            #          link: 
 
 
 career-profile:
@@ -120,8 +120,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python(NumPy;Pandas;Matplotlib)
-        level: 75%
+      - name: Python (NumPy;Pandas;SciPy)
+        level: 80%
 
       - name: R
         level: 80%
