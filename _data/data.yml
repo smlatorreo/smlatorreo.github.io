@@ -12,46 +12,47 @@ sidebar:
       #    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: smlatorreo [at] gmail.com
-      #    phone: 012 345 6789
-      #    timezone: America/Cancun Timezone
+    #    email:
+      #    phone:
+      #    timezone:
     citizenship:
     website: smlatorreo.github.io #do not add http://
     linkedin: sergio-latorre-695172198
-      #    xing: alandoe
+      #    xing:
     github: smlatorreo
     telegram: # add your nickname without '@' sign
     gitlab: smlatorreo
       #    bitbucket:
     twitter: '@smlatorreo'
-      #    stack-overflow: # Number/Username, e.g. 123456/alandoe
+      #    stack-overflow: # Number/Username
       #    codewars:
-      #    goodreads: # Number-Username, e.g. 123456-alandoe
-      #    pdf: htsergio-latorre-695172198tp://www.africau.edu/images/default/sample.pdf
+      #    goodreads: # Number-Username
+      #    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: Conversational
+
+        - idiom: French
+          level: Conversational
+
+        - idiom: German
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Music
+          link: 
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
@@ -65,8 +66,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: XX
+        university: XX
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
