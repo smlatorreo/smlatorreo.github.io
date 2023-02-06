@@ -128,95 +128,43 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Complete list of publications available at my [Google Scholar Porfile](https://scholar.google.co.uk/citations?user=Mt0b754AAAAJ&hl=en)
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A pandemic clonal lineage of the wheat blast fungus
+        link: "https://doi.org/10.1101/2022.06.06.494979"
+        authors: Latorre, S.M., Were, V., Foster, A.J., Langner, T., et al., Win, J., Talbot, N.J., Burbano, H.A., Kamoun, S.
+        conference: bioRxiv, 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Rapid weed adaptation and range expansion in response to agriculture over the past two centuries
+        link: "https://doi.org/10.1126/science.abo7293"
+        authors: Kreiner, J.M., Latorre, S.M., Burbano, H.A., Stinchcombe, J.R., Otto, S.P., Weigel, D., Wright, S.I.
+        conference: Science, 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Isolation, Library Preparation, and Bioinformatic Analysis of Historical and Ancient Plant DNA
+        link: "https://doi.org/10.1002/cppb.20121"
+        authors: Latorre, S.M., Lang, P.L.M., Burbano, H.A., Gutaker, R.M.
+        conference: Current Protocols in Plant Biology, 2020
+
+      - title: Differential loss of effector genes in three recently expanded pandemic clonal lineages of the rice blast fungus
+        link: "https://doi.org/10.1186/s12915-020-00818-z"
+        authors: Latorre, S.M., Reyes-Avila, C.S., Malmgren, A., Win, J., Kamoun, S., Burbano, H.A.
+        conference: BMC Biology, 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python (NumPy, Pandas, Matplotlib)
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Bash
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+          #footer: >
