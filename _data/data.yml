@@ -27,7 +27,7 @@ sidebar:
       #    stack-overflow: # Number/Username
       #    codewars:
       #    goodreads: # Number-Username
-      #    pdf:
+    pdf: https://github.com/smlatorreo/smlatorreo.github.io/tree/master/_data/Sergio_Latorre_CV.pdf
 
     languages:
       title: Languages
@@ -58,11 +58,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      adipiscing elit. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/tree/master/_data/Sergio_Latorre_CV.pdf).
 education:
     title: Education
     info:
