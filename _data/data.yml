@@ -27,7 +27,7 @@ sidebar:
       #    stack-overflow: # Number/Username
       #    codewars:
       #    goodreads: # Number-Username
-    pdf: https://github.com/smlatorreo/smlatorreo.github.io/tree/master/_data/Sergio_Latorre_CV.pdf
+    pdf: https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf
 
     languages:
       title: Languages
@@ -58,7 +58,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/tree/master/_data/Sergio_Latorre_CV.pdf).
+      adipiscing elit. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf).
 education:
     title: Education
     info:
@@ -120,8 +120,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python (NumPy, Pandas, Matplotlib)
-        level: 70%
+      - name: Python(NumPy;Pandas;Matplotlib)
+        level: 75%
 
       - name: R
         level: 80%
