@@ -32,11 +32,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Spanish
-          level: Native
-
         - idiom: English
           level: Professional
+
+        - idiom: Spanish
+          level: Native
 
         - idiom: Italian
           level: Conversational
