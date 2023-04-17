@@ -77,15 +77,12 @@ experiences:
         time: 2021 - Present
         company: University College London, UK
         details: |
-          As part of my research experience as a research fellow, I have contributed to lead a world-wide genomic surveillance effort on the wheat-blast fungus *Magnaporthe oryzae*. I have also analysed signatures of local adaptation and positive selection in the rice-infecting lineage of the blast fungus.
+          As a research fellow, I have led a global genomic surveillance project focused on the wheat-blast fungus, *Magnaporthe oryzae*. I have conducted a thorough analysis of genome-wide variables to identify signatures of local adaptation and positive selection in the rice-infecting lineage of the blast fungus. Additionally, my contributions have enabled a deeper understanding of the maintenance of diversity over time in pathogenic lineages of plant-infecting bacteria within the *Pseudomonas* sp. - *Arabidopsis thaliana* pathosystem.
       - role: PhD Researcher
         time: 2016 - 2020
         company: Max Planck Institute for Biology, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget do
-            - Bullet point
-            - Bullet point
+          During my PhD, I specialized in the application of ancient and historical DNA to reconstruct phylogenomic relationships and infer population history. My research encompassed diverse model systems, including microorganisms such as *M. oryzae*, plants like *A. thaliana*, and scarab beetles of the genus *Oryctes*. By employing genomic methods and computational analyses, I sought to uncover novel insights into the evolutionary processes that shaped the genetic diversity of these organisms.
 
 publications:
     title: Selected Publications
@@ -124,5 +121,8 @@ skills:
 
       - name: Bash
         level: 80%
+
+      - name: Snakemake
+        level: 60%
 
           #footer: >
