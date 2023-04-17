@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a population geneticist working with a wide range of model systems. I use genomic data from modern and historical organisms with state-of-art computational methods to investigate questions about population histories, local adaptation, selection and allele frequencies through time, among others. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf).
+      I am a population geneticist working with a wide range of model systems. I use genomic data from modern and historical organisms with state-of-art computational methods to investigate questions about population histories, local adaptation, selection and allele frequencies through time, among others. You can **[download my resume/CV here]**(https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf).
 education:
     title: Education
     info:
@@ -87,7 +87,7 @@ experiences:
 publications:
     title: Selected Publications
     intro: |
-      Complete list of publications available at my [Google Scholar Profile](https://scholar.google.co.uk/citations?user=Mt0b754AAAAJ&hl=en)
+      Complete list of publications available at my **[Google Scholar Profile]**(https://scholar.google.co.uk/citations?user=Mt0b754AAAAJ&hl=en)
     papers:
       - title: Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus
         link: "https://doi.org/10.1371/journal.pbio.3002052"
