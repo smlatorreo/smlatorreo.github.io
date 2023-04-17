@@ -57,8 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf).
+      I am a population geneticist working with a wide range of model systems. I use genomic data from modern and historical organisms with state-of-art computational methods to investigate questions about population histories, local adaptation, selection and allele frequencies through time, among others. You can [download my resume/CV here](https://github.com/smlatorreo/smlatorreo.github.io/raw/master/_data/Sergio_Latorre_CV.pdf).
 education:
     title: Education
     info:
@@ -78,16 +77,13 @@ experiences:
         time: 2021 - Present
         company: University College London, UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As part of my research experience as a research fellow, I have contributed to lead a world-wide genomic surveillance effort on the wheat-blast fungus *Magnaporthe oryzae*. I have also analysed signatures of local adaptation and positive selection in the rice-infecting lineage of the blast fungus.
       - role: PhD Researcher
         time: 2016 - 2020
         company: Max Planck Institute for Biology, Germany
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          adipiscing elit. Aenean commodo ligula eget do
             - Bullet point
             - Bullet point
 
