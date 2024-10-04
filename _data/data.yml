@@ -89,6 +89,16 @@ publications:
     intro: |
       Complete list of publications available at my [**Google Scholar Profile**](https://scholar.google.co.uk/citations?user=Mt0b754AAAAJ&hl=en)
     papers:
+      - title: Multiple horizontal mini-chromosome transfers drive genome evolution of clonal blast fungus lineages
+        link: "https://doi.org/10.1093/molbev/msae164"
+        authors: Barragan A.C*, Latorre, S.M*., Malmgren, A., Harant, A., Win, J., Shugihara, Y., Burbano, H.A., Kamoun, S., Langner, T.
+        journal: Molecular Biology and Evolution, 2024
+
+      - title: A phage tail–like bacteriocin suppresses competitors in metapopulations of pathogenic bacteria
+        link: "https://doi.org/10.1126/science.ado0713"
+        authors: Backman, T., Latorre, S.M., et al., Burbano, H.A., Karasov, T. 
+        journal: Science, 2024
+
       - title: Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus
         link: "https://doi.org/10.1371/journal.pbio.3002052"
         authors: Latorre, S.M., Were, V., Foster, A.J., Langner, T., et al., Win, J., Talbot, N.J., Burbano, H.A., Kamoun, S.
